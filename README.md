@@ -12,3 +12,4 @@ View web app here: https://sambrazneal.github.io/Bellybutton_Biodiversity/
 ## Deliverable 3
 ![gauge](resources/gauge.png)
 ## Deliverable 4 
+![page](resources/page.png)
