@@ -1,4 +1,4 @@
-# Bellybutton_Biodiversity
+![header](resources/header.png)
 
 ## Project Overview 
 In this challenge, I created a dashboard using Plotly libaries and JavaScript. 
